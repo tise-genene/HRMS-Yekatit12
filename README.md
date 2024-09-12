@@ -57,3 +57,20 @@ To get a copy of the project up and running on your local machine for developmen
 5. **Run the Application**:
    Start your web server and navigate to http://localhost/HRMS-Yekatit12 in your web browser.
 
+**Usage**
+1. Log in with admin credentials (default: genene@gmail.com / 654321).
+2. Navigate through the dashboard to manage employees, attendance, payroll, etc.
+
+   **Contributing**
+1. Fork the repository.
+2. Create your feature branch (git checkout -b feature/YourFeature).
+3. Commit your changes (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature/YourFeature).
+5. Open a Pull Request.
+
+
+**Acknowledgments**
+1. Yekatit 12 Hospital management and staff for their support and input.
+2. All open-source projects and libraries used in this project.
+
+   
