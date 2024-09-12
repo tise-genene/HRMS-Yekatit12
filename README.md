@@ -53,5 +53,7 @@ To get a copy of the project up and running on your local machine for developmen
     DB_DATABASE=hrms_yekatit12
     DB_USERNAME=your_username
     DB_PASSWORD=your_password
-5. **Run the Application**: Start your web server and navigate to http://localhost/HRMS-Yekatit12 in your web browser.
+	 
+5. **Run the Application**:
+   Start your web server and navigate to http://localhost/HRMS-Yekatit12 in your web browser.
 
